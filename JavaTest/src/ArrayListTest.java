@@ -14,5 +14,6 @@ public class ArrayListTest {
 
 			System.out.println(aa);
 			System.out.println(yyyymm);
+			System.out.println("tomgit");
 	}
 }
