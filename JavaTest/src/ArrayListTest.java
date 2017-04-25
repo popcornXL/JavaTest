@@ -11,7 +11,6 @@ public class ArrayListTest {
 			int ss=yyyymm.get(0);
 			String aa=Integer.toString(ss);
 			aa = aa.substring(0, 4) + "-" + aa.substring(4, aa.length());
-
 			System.out.println(aa);
 			System.out.println(yyyymm);
 			System.out.println("tomgit");
